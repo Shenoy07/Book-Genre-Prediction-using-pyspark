@@ -23,7 +23,7 @@ Just open the file from your workspace. Connect it to a cluster as the steps men
 The book is self explanatory. If you feel there are any issues feel free to contact me.
 
 
--> Open DataBricks Community Edition, go to the panel on the left side, go to workspace and import the dbc file.
+-> Open DataBricks Community Edition, go to the panel on the left side, go to workspace and import the Book Genre Prediction.dbc file.
 After the follow the given steps in the images to create a cluster and install spark nlp.
 
 I apologize for the screenshots, but I guess they are good enough to get your work done.
